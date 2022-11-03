@@ -9,9 +9,6 @@ I also like networking, and I created [this website](https://www.w01f.xyz) to sh
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=0xw01f&theme=radical&show_icons=true)
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/w01f_src?color=%231DA1F2&label=%F0%9F%90%A4%20Follow%20me%20on%20Twitter&style=flat-square)
-
-
 Knowledge
 ---
 
