@@ -80,7 +80,8 @@ Currently focusing on **automation of investigative workflows** and **geolocatio
 
 ## 📜 Certifications
 
-* **CRTA** (Certified Red Team Analyst) — *Altered Security*
+
 * **CWES** (Certified Web Exploitation Specialist) — *HTB Academy*
+* **CRTA** (Certified Red Team Analyst) — *CyberWarfare Labs*
 * **Space Law for New Space Actors** — *United Nations (UNOOSA)*
 * **OSINT Certification** — *Basel Institute on Governance*
