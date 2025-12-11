@@ -4,7 +4,7 @@
 
 **OSINT Analyst | CTF Player | Bug Hunter**
 
-[![Website](https://img.shields.io/badge/Portfolio-0d.lv-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://0d.lv)
+[![Website](https://img.shields.io/badge/Portfolio-0d.lv-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://0d.lv/about)
 [![Twitter](https://img.shields.io/badge/Twitter-@horus__0d-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/horus_0d)
 [![Medium](https://img.shields.io/badge/Medium-Writeups-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@horus_)
 <br>
