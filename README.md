@@ -20,7 +20,7 @@
 
 </div>
 
-## 🕵️‍♂️ Intelligence Profile
+## 🕵️‍♂️
 
 Passionate about **Open Source Intelligence (OSINT)** and Digital Forensics. I specialize in connecting dots between scattered data points to build comprehensive reports.
 Currently focusing on **automation of investigative workflows** and **geolocation challenges**.
