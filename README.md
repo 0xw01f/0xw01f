@@ -35,9 +35,7 @@ Currently focusing on **automation of investigative workflows** and **geolocatio
 | Category | Tools & Skills |
 |:---:|:---|
 | **OSINT Core** | ![SOCMINT](https://img.shields.io/badge/SOCMINT-Investigation-blue) ![GEOINT](https://img.shields.io/badge/GEOINT-Geolocation-green) ![IMINT](https://img.shields.io/badge/IMINT-Analysis-orange) |
-| **Tech Stack** | ![Python](https://img.shields.io/badge/Python-3.x-yellow) ![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey) ![Linux](https://img.shields.io/badge/Linux-Kali%2FTraceLabs-black) |
-| **Security** | `Burp Suite` `Wireshark` `Shodan` `Maltego` `Epieos` |
-| **OpSec** | VM Management, VPN/Tor routing, Sock Puppets creation |
+| **Tech Stack** | ![Python](https://img.shields.io/badge/Python-3.x-yellow) ![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey) ![Linux](https://img.shields.io/badge/Linux-Arch%2Fbtw-black) |
 
 ---
 
