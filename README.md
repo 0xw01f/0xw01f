@@ -10,6 +10,9 @@
 <br>
 [![Intigriti](https://img.shields.io/badge/Intigriti-horus__-665CAC?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/profile/horus_)
 [![YesWeHack](https://img.shields.io/badge/YesWeHack-Fugu-C9302C?style=for-the-badge&logo=yeswehack&logoColor=white)](https://yeswehack.com/hunters/Fugu)
+<br>
+[![Argus Labs](https://img.shields.io/badge/Argus%20Labs-Graph-a68f58?style=for-the-badge&logo=graph&logoColor=white)](https://argus-labs.fr)
+
 
 ---
 
