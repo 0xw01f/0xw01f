@@ -91,4 +91,4 @@ Currently focusing on **automation of investigative workflows** and **geolocatio
 
 ## You do OSINT ? Check this out 👇
 
-<img width="1887" height="1068" alt="image" src="https://github.com/user-attachments/assets/3c97db6f-7355-4ca8-97b3-9d60de5530c4" />
+<a href="https://argus-labs.fr/" target="_blank"><img width="1887" height="1068" alt="image" src="https://github.com/user-attachments/assets/3c97db6f-7355-4ca8-97b3-9d60de5530c4" /></a>
