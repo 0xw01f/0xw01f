@@ -16,10 +16,6 @@
 
 ---
 
-<p align="center">
-  <b>"Turning raw data into actionable intelligence."</b><br>
-  Based in Paris, France 🇫🇷
-</p>
 
 </div>
 
