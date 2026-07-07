@@ -24,7 +24,7 @@
 Passionate about **Open Source Intelligence (OSINT)** and Digital Forensics. I specialize in connecting dots between scattered data points to build comprehensive reports.
 Currently focusing on **automation of investigative workflows** and **geolocation challenges**.
 
-* **Languages:** 🇫🇷 Native | 🇬🇧 English (C1/C2) | 🇩🇪 German (Native) | 🇷🇺 Russian (B1)
+* **Languages:** 🇫🇷 Native | 🇬🇧 English (Fluent) | 🇩🇪 German (Native) | 🇷🇺 Russian (B1)
 * **Key Interests:** Geopolitics (Post-Soviet Space), Open Source INTelligence, Bug Bounty.
 
 ---
